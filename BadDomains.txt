@@ -132,3 +132,6 @@ vscodeupdater.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestions.azurewebsites.net
 workersquestionsjson.azurewebsites.net
+p.findmeatthe.top
+p.deutschland-zahlung.eu
+p.shadow-mods.net
